@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spendwise — Expense Tracker
 
 A full-stack expense tracker with JWT authentication, category-based charts, and a clean responsive UI.
@@ -130,3 +131,6 @@ Just open `frontend/index.html` in your browser. No build step needed.
 - **Mongoose schemas** — both User and Transaction have validation and type checks
 - **CORS** — enabled so the frontend can talk to the backend across origins
 - **Environment variables** — secrets live in `.env`, not hardcoded
+=======
+# expense-tracker
+>>>>>>> b667ea58de15a6853dfe35f51a807c167c55c502
