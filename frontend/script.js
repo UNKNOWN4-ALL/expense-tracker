@@ -1,6 +1,6 @@
 const API = window.location.hostname === 'localhost'
   ? 'http://localhost:5000/api'
-  : 'https://your-backend.vercel.app/api'; // 🔁 Replace with your deployed backend URL
+  : 'https://expense-tracker-backend-navy-one.vercel.app/'; // 🔁 Replace with your deployed backend URL
 
 let token      = '';
 let allData    = [];
